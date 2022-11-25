@@ -49,9 +49,3 @@ if MAX_LEN>=12:
     print(temp_pass)
 else:
     print("password length must be greator than 12")
-
-"""z=input()
-if z==("yes" or "Yes"):
-    print(temp_pass)
-else:
-    print("Goodbye")"""
